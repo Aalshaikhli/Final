@@ -43,5 +43,4 @@ public class SocketClientExample {
         }
     }
 }
-To test java socket programming of server-client communication, first we need to run SocketServerExample class. When you will run socket server, it will just print “Waiting for client request” and then wait for the client request.
 
